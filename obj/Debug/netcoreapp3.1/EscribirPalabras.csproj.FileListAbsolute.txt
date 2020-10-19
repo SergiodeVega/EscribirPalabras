@@ -1,0 +1,17 @@
+D:\3_ 20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.csprojAssemblyReference.cache
+D:\3_ 20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.AssemblyInfoInputs.cache
+D:\3_ 20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.AssemblyInfo.cs
+D:\3_ 20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.csproj.CoreCompileInputs.cache
+D:\3_20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.csprojAssemblyReference.cache
+D:\3_20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.AssemblyInfoInputs.cache
+D:\3_20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.AssemblyInfo.cs
+D:\3_20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.csproj.CoreCompileInputs.cache
+D:\3_20483C\EscribirPalabras\bin\Debug\netcoreapp3.1\EscribirPalabras.exe
+D:\3_20483C\EscribirPalabras\bin\Debug\netcoreapp3.1\EscribirPalabras.deps.json
+D:\3_20483C\EscribirPalabras\bin\Debug\netcoreapp3.1\EscribirPalabras.runtimeconfig.json
+D:\3_20483C\EscribirPalabras\bin\Debug\netcoreapp3.1\EscribirPalabras.runtimeconfig.dev.json
+D:\3_20483C\EscribirPalabras\bin\Debug\netcoreapp3.1\EscribirPalabras.dll
+D:\3_20483C\EscribirPalabras\bin\Debug\netcoreapp3.1\EscribirPalabras.pdb
+D:\3_20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.dll
+D:\3_20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.pdb
+D:\3_20483C\EscribirPalabras\obj\Debug\netcoreapp3.1\EscribirPalabras.genruntimeconfig.cache
