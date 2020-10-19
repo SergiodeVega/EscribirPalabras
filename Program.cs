@@ -12,6 +12,8 @@ namespace matrizletras
             bool palabraAceptable = false;
 
             Console.WriteLine("Escribe palabras o frases cortas y pulsa enter. (Ctrl+C para salir)");
+            // Aunque supongo que es poco ortodoxo, he implementado este bucle infinito más externo,
+            // para facilitar la ejecución recurrente del programa y ver mejor los resultados.
             do
             {
                 do
@@ -39,6 +41,7 @@ namespace matrizletras
                 }
 
             }while (true);
+            // Sólo termina la ejecución del programa cuando el usuario pulsa Ctrl+C.
         }
         static public string[] cargarPalabra(string palabra)
         {
