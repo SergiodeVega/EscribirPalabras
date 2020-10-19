@@ -152,7 +152,7 @@ namespace matrizletras
                     letr[6] = "****** ";
 
                     // AÑADIDO:
-                    // Pasamos el arrays de una dimensión al de dos dimensiones.
+                    // Pasamos el array de una dimensión al de dos dimensiones.
                     for (row = 0; row < 7; row++)
                     {
                         for (col = 0; col < 7; col++)
